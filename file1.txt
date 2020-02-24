@@ -2,6 +2,7 @@ Bahasa pemrograman
 
 js
 php
+Pascal 
 java
 python
 ruby
