@@ -1,4 +1,4 @@
-Bahasa pemrograman
+Bahasa pemrograman dan bahasa manusia
 
 js
 php
@@ -7,3 +7,5 @@ java
 python
 ruby
 matlab
+
+inggris
