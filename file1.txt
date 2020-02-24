@@ -1,4 +1,4 @@
-Bahasa pemrograman dan bahasa manusia
+Bahasa pemrograman dan bahasa manusia dan bahasa daerah
 
 js
 php
@@ -10,3 +10,5 @@ ruby
 matlab
 
 inggris
+
+jawa
